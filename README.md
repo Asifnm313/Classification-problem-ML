@@ -31,7 +31,8 @@ Implemented the following classification algorithms:
 - **Random Forest Classifier**
 - **Support Vector Machine (SVM)**
 - **k-Nearest Neighbors (k-NN)**
-Each algorithm is explained briefly along with its strengths and suitability for this dataset.
+
+  Each algorithm is explained briefly along with its strengths and suitability for this dataset.
 
 3. **Model Comparison**
 - **Evaluated the models based on accuracy, classification reports, and confusion matrices.**
