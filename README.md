@@ -43,6 +43,6 @@ Implemented the following classification algorithms:
 ## Technologies Used
 - **Python 3**
 - **Libraries:**
- - pandas, numpy - Data processing
- - seaborn, matplotlib - Visualization
- - scikit-learn - Machine Learning algorithms and utilities
+  - pandas, numpy - Data processing
+  - seaborn, matplotlib - Visualization
+  - scikit-learn - Machine Learning algorithms and utilities
