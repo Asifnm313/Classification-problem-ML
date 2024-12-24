@@ -12,18 +12,18 @@ The dataset used for this project is the Breast Cancer Wisconsin Diagnostic Data
 ---
 
 ## Features:
-30 numeric features representing characteristics of cell nuclei in the breast mass.
-Target Variable:
-0 - Malignant (Cancerous)
-1 - Benign (Non-Cancerous)
+- **30 numeric features representing characteristics of cell nuclei in the breast mass.**
+- **Target Variable:**
+**0 - Malignant (Cancerous)**
+**1 - Benign (Non-Cancerous)**
 
 ----
 
 ## Key Components
 1. **Loading and Preprocessing** 
-Loaded the dataset using scikit-learn's load_breast_cancer() function.
-Handled missing values (if any) and scaled the features using StandardScaler.
-Justification: Feature scaling is critical to ensure that machine learning algorithms perform optimally, especially distance-based models like SVM and k-NN.
+- **Loaded the dataset using scikit-learn's load_breast_cancer() function.**
+- **Handled missing values (if any) and scaled the features using StandardScaler.**
+- **Justification: Feature scaling is critical to ensure that machine learning algorithms perform optimally, especially distance-based models like SVM and k-NN.**
 2. **Classification Algorithms**
 Implemented the following classification algorithms:
 
