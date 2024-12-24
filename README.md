@@ -27,13 +27,13 @@ Justification: Feature scaling is critical to ensure that machine learning algor
 2. **Classification Algorithms**
 Implemented the following classification algorithms:
 
--**Logistic Regression**
--**Decision Tree Classifier**
--**Random Forest Classifier**
--**Support Vector Machine (SVM)**
--**k-Nearest Neighbors (k-NN)**
+- **Logistic Regression**
+- **Decision Tree Classifier**
+- **Random Forest Classifier**
+- **Support Vector Machine (SVM)**
+- **k-Nearest Neighbors (k-NN)**
 Each algorithm is explained briefly along with its strengths and suitability for this dataset.
 
 3. **Model Comparison**
--**Evaluated the models based on accuracy, classification reports, and confusion matrices.**
--**Compared their performance and identified the best and worst performing models.**
+- **Evaluated the models based on accuracy, classification reports, and confusion matrices.**
+- **Compared their performance and identified the best and worst performing models.**
