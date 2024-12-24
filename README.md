@@ -13,8 +13,8 @@ The dataset used for this project is the Breast Cancer Wisconsin Diagnostic Data
 ## Features:
 - **30 numeric features representing characteristics of cell nuclei in the breast mass.**
 - **Target Variable:**
-**0 - Malignant (Cancerous)**
-**1 - Benign (Non-Cancerous)**
+ **0 - Malignant (Cancerous)**
+ **1 - Benign (Non-Cancerous)**
 
 ----
 
