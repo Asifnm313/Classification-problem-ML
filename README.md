@@ -1,10 +1,9 @@
 # CLASSIFICATION PROBLEM-IN-MACHINE LEARNING
 ## Breast Cancer Classification Using Machine Learning
 ## Objective
-
-----
-
 The goal of this project is to classify breast cancer tumors as malignant or benign using machine learning algorithms. This project evaluates the performance of different classification techniques applied to the Breast Cancer Dataset from the scikit-learn library.
+
+---
 
 ## Dataset
 The dataset used for this project is the Breast Cancer Wisconsin Diagnostic Dataset available in the scikit-learn library.
