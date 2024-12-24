@@ -37,3 +37,12 @@ Implemented the following classification algorithms:
 3. **Model Comparison**
 - **Evaluated the models based on accuracy, classification reports, and confusion matrices.**
 - **Compared their performance and identified the best and worst performing models.**
+
+---
+
+## Technologies Used
+- **Python 3**
+- **Libraries:**
+ - pandas, numpy - Data processing
+ - seaborn, matplotlib - Visualization
+ - scikit-learn - Machine Learning algorithms and utilities
